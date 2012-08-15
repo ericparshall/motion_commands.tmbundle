@@ -33,6 +33,10 @@
 			<key>command</key>
 			<string>moveLeft:</string>
 		</dict>
+		<dict>
+			<key>command</key>
+			<string>moveToEndOfLineAndModifySelection:</string>
+		</dict>
 	</array>
 	<key>keyEquivalent</key>
 	<string>~@</string>
